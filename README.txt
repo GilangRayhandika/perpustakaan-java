@@ -1,5 +1,5 @@
-Nama    : Revan Fatkhurezi Desviansyah
-NIM     : 20230040097
+Nama    : Gilang Rayhandika 
+NIM     : 20230040199
 Kelas   : TI23E
 
 Tugas   : Aplikasi Perpustakaan (Tampilkan & Tambah Buku)
